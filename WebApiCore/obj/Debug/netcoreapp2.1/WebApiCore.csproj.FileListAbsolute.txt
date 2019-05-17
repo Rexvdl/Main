@@ -1,0 +1,15 @@
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.csproj.CoreCompileInputs.cache
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.AssemblyInfoInputs.cache
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.AssemblyInfo.cs
+F:\GitHub\rexvdl\main\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.deps.json
+F:\GitHub\rexvdl\main\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.runtimeconfig.json
+F:\GitHub\rexvdl\main\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.runtimeconfig.dev.json
+F:\GitHub\rexvdl\main\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.dll
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.csprojAssemblyReference.cache
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cache
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cs
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.RazorTargetAssemblyInfo.cache
+F:\GitHub\rexvdl\main\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.pdb
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.dll
+F:\GitHub\rexvdl\main\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.pdb
